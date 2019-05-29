@@ -2,11 +2,15 @@
   "name": "shampoo assistance",
   "version": "0.1.0",
   "main": "bot.js",
-    "scripts": {
+  "author": {},
+  "scripts": {
     "start": "node bot"
   },
-    "dependencies": {
-    "request": "^2.88.0",
+  "dependencies": {
     "discord.js": "^11.4.2",
+    "moment": "^2.23.0",
+    "request": "^2.88.0",
+    "superagent": "^5.0.5"
   }
+}
 
